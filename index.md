@@ -1,7 +1,3 @@
-### ForeL∞K
-
-I forelook; therefore I earn.
-
 #### Proposition
 
 Forecast whether the propositions will be TRUE or FALSE. You earn if your forelook is judged correct. Each proposition has an ID and a due time. **Forelook everything before it goes due!**
